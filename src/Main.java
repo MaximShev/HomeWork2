@@ -60,6 +60,8 @@ public class Main {
         var newWorkHours = worker * workPeopleHour;
         System.out.println("Если в компании работает " + worker + " человек, то всего " + newWorkHours + " часов работы может быть поделено между сотрудниками");
 
+        System.out.println("Добавлен пулл-реквест");
+
 
 
 
